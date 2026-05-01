@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a2744,100:6b1212&height=280&section=header&text=Talat%20Karasakal&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi&descAlignY=55&descAlign=50&descColor=94a3b8)
-
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a2744,100:6b1212&height=280&section=header&text=Talat%20Karasakal&fontSize=78&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%C3%96%C4%9Frencisi&descAlignY=55&descAlign=50&descColor=94a3b8">
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talat-karasakal-077368251)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalatKarasakal)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalatKarasakal)
 
 </div>
 
@@ -54,9 +54,9 @@ I'm a 3rd-year Computer Engineering student at İzmir University of Economics. I
 **Araçlar · Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-0d1b2a?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1a1a2e?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b1212,50:1a2744,100:0d1b2a&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1212,50:1a2744,100:0d1b2a&height=120&section=footer">
