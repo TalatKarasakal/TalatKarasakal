@@ -21,7 +21,7 @@ Yığın:       Python · Java · C# · C++ · C
 Açık:        2026 yaz stajları
 ```
 
-İEÜ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka ve Veri Bilimi alanlarıyla ilgileniyorum. Geliştirme süreçlerimde yapay zeka ajanlarını etkin biçimde kullanıyorum.
+İEÜ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yapay Zeka ve Veri Bilimi alanlarıyla ilgileniyorum.
 
 ---
 
@@ -37,7 +37,7 @@ Stack:       Python · Java · C# · C++ · C
 Open to:     summer 2026 internships
 ```
 
-I'm a 3rd-year Computer Engineering student at İzmir University of Economics. I work with AI and data systems, and actively use AI agents throughout my development workflow.
+I'm a 3rd-year Computer Engineering student at İzmir University of Economics. I work with AI and data systems.
 
 ---
 
@@ -57,6 +57,5 @@ I'm a 3rd-year Computer Engineering student at İzmir University of Economics. I
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-1a1a2e?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1212,50:1a2744,100:0d1b2a&height=120&section=footer">
